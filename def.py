@@ -1,8 +1,8 @@
-# Scrypt By YUSA
-# YT B012ED
+# Scrypt By Aries Xmue
+# Ko Htet 
 import marshal,zlib,base64
 
-#exec(marshal.loads('https://b012ed.github.io')
+#exec(marshal.loads('https://hmuhtetpaing.online')
 #zlib&base32&marshal"exec(marshal.load('HgHhbjggTfghUggUgffUhghJhhIbbiGgtGfghHhhuHhjiiBbjjBbhgGggGggTrdFdeSddssGhHhhOjbKinjIjbjIhhhHhggHghhUyggGggggGgggHhGTTTyhhfDdsHjiJiGgjJvvJujGjuHgDdRrgYyyUu')
 
 
